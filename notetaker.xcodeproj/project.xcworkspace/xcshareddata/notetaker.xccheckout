@@ -10,6 +10,8 @@
 	<string>notetaker</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>0D07110E039E8F640069276CE72C315501EB7C43</key>
+		<string>bitbucket.org:alex2006hw-lessions/2.git</string>
 		<key>3D0C317E5119DF9A912A2DBE7EC12477885D4A1A</key>
 		<string>https://github.com/tylermcginnis/react-native-gh-notetaker</string>
 	</dict>
@@ -17,6 +19,8 @@
 	<string>notetaker.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+		<key>0D07110E039E8F640069276CE72C315501EB7C43</key>
+		<string>../../../../..</string>
 		<key>3D0C317E5119DF9A912A2DBE7EC12477885D4A1A</key>
 		<string>../..</string>
 	</dict>
@@ -28,6 +32,14 @@
 	<string>3D0C317E5119DF9A912A2DBE7EC12477885D4A1A</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0D07110E039E8F640069276CE72C315501EB7C43</string>
+			<key>IDESourceControlWCCName</key>
+			<string>..</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
